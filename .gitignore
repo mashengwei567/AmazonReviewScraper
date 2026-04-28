@@ -1,0 +1,29 @@
+# 浏览器登录状态（含 Cookies，非常敏感）
+browser_data/
+browser_state.json
+
+# 运行时配置（含本地代理设置等）
+config.json
+
+# 输出文件
+output/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# 虚拟环境
+.venv/
+venv/
+
+# IDE 配置
+.idea/
+.vscode/
+*.swp
+*.swo
